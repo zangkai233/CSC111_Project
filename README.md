@@ -133,8 +133,7 @@ The required packages are listed in requirements.txt.
 
 This project was completed as part of CSC111. The main goal was to practice Python programming, object-oriented design, graph-based modeling, recursive search, heuristic evaluation, and building a complete interactive program.
 
-## Authors
-
+## Authors (Uoft CS students)
 Kai Zang  
 Shiyuan Lyu  
 Seoyun Ju  
