@@ -1,0 +1,8 @@
+# CSC111 Winter 2026 Project2: Gomoku game
+
+# Testing and code checking
+python-ta==2.12.1
+
+# Graphics and data visualization
+pygame==2.6.1
+
